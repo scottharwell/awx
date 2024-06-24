@@ -68,7 +68,7 @@ results:
     description: a list of job summary objects represented as dictionaries
     returned: success
     type: list
-    sample: [[{"id":1119,"type":"job_host_summary","url":"/api/v2/job_host_summaries/1119/","related":{"job":"/api/v2/jobs/1494/","host":"/api/v2/hosts/16/"},"summary_fields":{"host":{"id":16,"name":"automation_host","description":"imported"},"job":{"id":1494,"name":"Pis - Update Raspberry Pis","description":"Pis - Update Raspberry Pis","status":"successful","failed":false,"elapsed":79.149,"type":"job","job_template_id":31,"job_template_name":"Pis - Update Raspberry Pis"}},"created":"2024-06-21T03:32:13.773492Z","modified":"2024-06-21T03:32:13.773503Z","job":1494,"host":16,"constructed_host":null,"host_name":"automation_host","changed":0,"dark":0,"failures":0,"ok":17,"processed":1,"skipped":23,"failed":false,"ignored":0,"rescued":0}, ...]
+    sample: [[{"id":1119,"type":"job_host_summary","url":"/api/v2/job_host_summaries/1119/","related":{"job":"/api/v2/jobs/1494/","host":"/api/v2/hosts/16/"},"summary_fields":{"host":{"id":16,"name":"automation_host","description":"imported"},"job":{"id":1494,"name":"Update Hosts","description":"Update Hosts","status":"successful","failed":false,"elapsed":79.149,"type":"job","job_template_id":31,"job_template_name":"Update Hosts"}},"created":"2024-06-21T03:32:13.773492Z","modified":"2024-06-21T03:32:13.773503Z","job":1494,"host":16,"constructed_host":null,"host_name":"automation_host","changed":0,"dark":0,"failures":0,"ok":17,"processed":1,"skipped":23,"failed":false,"ignored":0,"rescued":0}, ...]
 '''
 
 
